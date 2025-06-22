@@ -39,7 +39,7 @@ To design and develop a functional calculator that performs basic arithmetic ope
 
 ## 🔗 GitHub Repository
 
-💻 [GitHub Project Link](https://github.com/yourusername/Calculator_CodeAlpha) *(Replace with actual link)*
+💻 [GitHub Project Link] https://github.com/zeeshanhyder12/CodeAlpha_Build_a_Calculator/tree/main
 
 ---
 
